@@ -57,7 +57,7 @@
     "@playwright/test": "^1.35.1",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.0",
-    "electron": "^19.1.9",
+    "electron": "^22.3.25",
     "electron-builder": "^24.13.3",
     "got": "^12.0.3",
     "ipfs-or-gateway": "^4.1.0",
